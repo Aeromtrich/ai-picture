@@ -22,7 +22,6 @@ import com.google.picturebackend.manager.upload.UrlPictureUpload;
 import com.google.picturebackend.mapper.PictureMapper;
 import com.google.picturebackend.model.dto.file.UploadPictureResult;
 import com.google.picturebackend.model.dto.picture.*;
-import com.aeromtrich.aeromtrichcturebackend.model.dto.picture.*;
 import com.google.picturebackend.model.entity.Picture;
 import com.google.picturebackend.model.entity.Space;
 import com.google.picturebackend.model.entity.User;
@@ -54,7 +53,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author 程序员鱼皮 <a href="https://www.codefather.cn">编程导航原创项目</a>
+ * @author Aeromtrich
  * @description 针对表【picture(图片)】的数据库操作Service实现
  * @createDate 2024-12-11 20:45:51
  */

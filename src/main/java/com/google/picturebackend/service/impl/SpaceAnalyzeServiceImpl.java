@@ -11,11 +11,9 @@ import com.google.picturebackend.exception.ThrowUtils;
 import com.google.picturebackend.mapper.SpaceMapper;
 import com.google.picturebackend.model.dto.space.analyze.*;
 import com.google.picturebackend.model.vo.space.analyze.*;
-import com.aeromtrich.aeromtrichcturebackend.model.dto.space.analyze.*;
 import com.google.picturebackend.model.entity.Picture;
 import com.google.picturebackend.model.entity.Space;
 import com.google.picturebackend.model.entity.User;
-import com.aeromtrich.aeromtrichcturebackend.model.vo.space.analyze.*;
 import com.google.picturebackend.service.PictureService;
 import com.google.picturebackend.service.SpaceAnalyzeService;
 import com.google.picturebackend.service.SpaceService;
@@ -29,7 +27,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author 李鱼皮
+ * @author Aeromtrich
  * @createDate 2024-12-18 19:53:34
  */
 @Service

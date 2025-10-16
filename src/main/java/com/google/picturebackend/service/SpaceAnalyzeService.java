@@ -11,7 +11,7 @@ import com.aeromtrich.aeromtrichcturebackend.model.vo.space.analyze.*;
 import java.util.List;
 
 /**
- * @author 李鱼皮
+ * @author Aeromtrich
  * @createDate 2024-12-18 19:53:34
  */
 public interface SpaceAnalyzeService extends IService<Space> {
